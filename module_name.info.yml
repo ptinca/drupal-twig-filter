@@ -1,0 +1,6 @@
+name: Module name
+description: Custom twig filter
+package: Custom
+
+type: module
+core: 8.x
